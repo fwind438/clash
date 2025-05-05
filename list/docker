@@ -1,0 +1,11 @@
+# 内容：OpenAi Bard anthropic
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,anthropic
+# DOMAIN-KEYWORD,Claude
+# 域名后缀匹配
+DOMAIN,docker.com
+
+DOMAIN-KEYWORD,docker
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
